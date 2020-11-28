@@ -1,0 +1,1 @@
+{"gui":{"general":{"printername":"Sapphire PRO"},"dashboard":{"boolWebcam":true,"boolTempchart":true,"boolConsole":true,"hiddenMacros":["M600","PRINT_START","PRINT_END","PRIME_LINE"],"hiddenTempChart":[]},"webcam":{"url":"","rotate":false,"rotateDegrees":90,"flipX":false,"flipY":false,"bool":false},"gcodefiles":{"countPerPage":10},"settings":{"configfiles":{"countPerPage":10}}}}
